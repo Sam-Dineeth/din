@@ -1,0 +1,27 @@
+body{
+    background-color: aqua;
+}
+    div{
+        color: blue;
+    }
+
+    .class{
+        background-color: aqua;
+        color: brown;
+    }
+    *{
+        text-align: center;
+        text-decoration: underline;
+    }
+
+    p{
+        font-weight: 1000;
+    }
+
+
+
+    p{
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    b
+    
